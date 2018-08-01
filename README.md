@@ -7,4 +7,4 @@ A scoreboard built completely on React using Redux to handle state management.
 ## How to Use
 
 1) npm install
-2) npm run
+2) npm start
